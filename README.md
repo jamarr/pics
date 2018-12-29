@@ -1,1 +1,1 @@
-Tutorial from Mordern React with Redux course.
+Tutorial from Modern React with Redux course.
